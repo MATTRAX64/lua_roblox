@@ -1,5 +1,5 @@
 # lua_roblox
-leaderboardwin:
+**leaderboardwin:**
 
 le script permettra de selectionner tout les joueurs dans un serveur,
 
@@ -12,7 +12,7 @@ ils sont classés en premier, deuxième, troisième,...
 et c'est automatiquement envoyé au serveur roblox du monde via une API.
 
 
-Timeplayer:
+**Timeplayer:**
 
 le script auras acces au score pour permettre de leur mettre quand ils rejoignent le jeu
 en éliminant les autres joueurs.
