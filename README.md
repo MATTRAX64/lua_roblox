@@ -1,12 +1,22 @@
 # lua_roblox
 leaderboardwin:
-le script permettera de selectionner tout les joueur dans un serveur
-les mettre dans un tableau des score
-il seront ranger par ordre ou ca dépendra de leur temps ou la personne est rester dans le jeu
-mis premier deuxième troisième .......
-et c'est automatiquement envoillez au serveur roblox du monde via une API utiliser
+
+le script permettra de selectionner tout les joueurs dans un serveur,
+
+les mettre dans un tableau des scores.
+
+Ils seront rangés par ordre ou cela dépendra de leur temps oû la personne est restée dans le jeu,
+
+ils sont classés en premier, deuxième, troisième,...
+
+et c'est automatiquement envoyé au serveur roblox du monde via une API.
+
 
 Timeplayer:
-le script auras acces au score pour permettre de leur mettre quand il rejoigne le jeu
-en éliminant les autres joueurs il perdent leur temps et l'auteur les récupères et les accumulent
-le temps sera mis sur leurs têtes en clonant pendant l'apparition du joueurs
+
+le script auras acces au score pour permettre de leur mettre quand ils rejoignent le jeu
+en éliminant les autres joueurs.
+
+Ils perdent leur temps et l'auteur les récupère et les accumule.
+
+Le temps sera mis sur leurs têtes en clonant le texte du temps pendant l'apparition des joueurs.
